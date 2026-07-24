@@ -1,10 +1,10 @@
-# 📊 CICAP BI Dashboard
+# CICAP BI Dashboard
 
 Dashboard de Business Intelligence desenvolvido utilizando **MySQL** e **Power BI** para análise operacional de coletas laboratoriais.
 
 ---
 
-## 📌 Objetivo
+## Objetivo
 
 O objetivo deste projeto é transformar dados operacionais de coletas laboratoriais em informações estratégicas por meio de consultas SQL e visualizações no Power BI.
 
@@ -12,7 +12,7 @@ O dashboard permite acompanhar indicadores de produtividade, desempenho operacio
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - MySQL
 - SQL
@@ -23,7 +23,7 @@ O dashboard permite acompanhar indicadores de produtividade, desempenho operacio
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 cicap-bi-dashboard/
@@ -37,7 +37,7 @@ cicap-bi-dashboard/
 
 ---
 
-## 🗄️ Banco de Dados
+## Banco de Dados
 
 Tabela principal:
 
@@ -58,7 +58,7 @@ Principais campos:
 
 ---
 
-## 📈 Indicadores Desenvolvidos
+## Indicadores Desenvolvidos
 
 - Total de Coletas
 - Total de Casos
@@ -71,9 +71,8 @@ Principais campos:
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
-> Adicione abaixo uma captura de tela do dashboard.
 
 ![Dashboard](IMAGEM/dashboard.png)
 
