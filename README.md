@@ -78,7 +78,7 @@ Principais campos:
 
 ---
 
-## ▶️ Como Executar
+## Como Executar
 
 1. Criar o banco de dados utilizando o script `01_criar_banco.sql`.
 2. Criar a tabela utilizando o script `02_criar_tabela.sql`.
@@ -89,7 +89,7 @@ Principais campos:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Raphael Angenendt**
 
